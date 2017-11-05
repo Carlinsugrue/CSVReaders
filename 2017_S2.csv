@@ -1,0 +1,25 @@
+CODE,NAME,LECTURERS,SEMESTER,CREATE,MATERIALS_REPO
+IN505,Intro to Systems Analysis,Vaughn.Malkin@op.ac.nz,S2,N,N
+IN511,Programming 2,Joy.Gasson@op.ac.nz,S2,Y,N
+IN512,Web 1,Krissi.Wood@op.ac.nz,S2,Y,N
+IN515,Intro to Networks,Michael.Holtz@op.ac.nz,S2,N,N
+IN501,Professional Practice 1,Elise.Allen@op.ac.nz,S2,Y,N
+IN510,Programming 1,"Dale.Parsons@op.ac.nz,Krissi.Wood@op.ac.nz",S2,Y,N
+IN520,PC Maintenance,Paul.Admiraal@op.ac.nz,S2,N,N
+IN521,Maths for IT,Joy.Gasson@op.ac.nz,S2,N,N
+IN603,Project Management,,S2,N,N
+IN602,Software Engineering,"Adon.Moskal@op.ac.nz,Elise.Allen@op.ac.nz",S2,Y,N
+IN612,Web 2 - Programming,"Dale.Parsons@op.ac.nz,Elise.Allen@op.ac.nz",S2,Y,N
+IN628,Programming 4,Patricia.Haden@op.ac.nz,S2,Y,N
+IN614,Multimedia Development,"Adon.Moskal@op.ac.nz,Elise.Allen@op.ac.nz",S2,Y,N
+IN617,Linux,Thomas.Laurenson@op.ac.nz,S2,Y,N
+IN610,Programming 3,Dale.Parsons@op.ac.nz,S2,Y,N
+IN621,Robotics,Vaughn.Malkin@op.ac.nz,S2,Y,N
+IN627,Quality Assurance and Software Testing,Paul.Admiraal@op.ac.nz,S2,N,N
+IN615,Scaling Networks,Michael.Holtz@op.ac.nz,S2,N,N
+IN726,Data Science and Machine Intelligence,David.Rozado@op.ac.nz,S2,Y,N
+IN711,Algorithms and Data Structures,Patricia.Haden@op.ac.nz,S2,Y,N
+IN723,Advanced Networking,Michael.Holtz@op.ac.nz,S2,N,N
+IN720,Virtualisation,Nathan.Rountree@op.ac.nz,S2,Y,N
+IN722,Next Generation Networked Hardware,,S2,Y,N
+IN700,Project,Adon.Moskal@op.ac.nz,,Y,N
